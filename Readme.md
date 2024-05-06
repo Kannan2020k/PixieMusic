@@ -1,17 +1,6 @@
- [━━━━━━━━━━━━━━━━━━━━
-
 <h2 align="center">
-    ──「™°‌ 🫧 🇴 🇽 𝐘 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆」──
+   -- ᴘɪxɪᴇ ᴍᴜsɪᴄ --
 </h2>
-
-
-
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 🇴 🇽 𝐘 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆](https://t.me/DESISWAGGERHU)**_
-━━━━━━━━━━━━━━━━━━━━
-
-
-
-━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://graph.org/file/79b2347e9834e02510895.jpg">
@@ -25,6 +14,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 🇴 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href=https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXYGEN> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href=https://dashboard.heroku.com/new?template=https://github.com/Git-Hub-xD/PixieMusic> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
