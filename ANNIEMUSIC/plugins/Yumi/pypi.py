@@ -42,8 +42,8 @@ def pypi_info_command(client, message):
         
         else:
             # Handling the case where information retrieval failed
-            client.send_message(message.chat.id, "Failed to fetch information from PyPI.")
+            client.send_message(message.chat.id, "ғᴀɪʟᴇᴅ ᴛᴏ ғᴇᴛᴄʜ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ғʀᴏᴍ ᴘʏᴘɪ.")
     
     except IndexError:
 
-        client.send_message(message.chat.id, "Please provide a package name after the /pypi command.")
+        client.send_message(message.chat.id, "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴀ ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴛʜᴇ /pypi ᴄᴏᴍᴍᴀɴᴅ.")
