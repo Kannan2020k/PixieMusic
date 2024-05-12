@@ -23,7 +23,7 @@ def goodnight_command_handler(client: Client, message: Message):
 # Function to get a random sticker
 def get_random_sticker():
     stickers = [
-        "CAACAgQAAx0Ce9_hCAACaEVlwn7HeZhgwyVfKHc3WUGC_447IAACLgwAAkQwKVPtub8VAR018x4E",
+        "CAACAgUAAxkBAAJkjWZAyvxE3qxoOf-NuJRsutkC06gFAALYCAACF0zRV7E9RhwBiz70NQQ",
         "CAACAgIAAx0Ce9_hCAACaEplwn7dvj7G0-a1v3wlbN281RMX2QACUgwAAligOUoi7DhLVTsNsh4E",
         "CAACAgIAAx0Ce9_hCAACaFBlwn8AAZNB9mOUvz5oAyM7CT-5pjAAAtEKAALa7NhLvbTGyDLbe1IeBA",
         "CAACAgUAAx0CcmOuMwACldVlwn9ZHHF2-S-CuMSYabwwtVGC3AACOAkAAoqR2VYDjyK6OOr_Px4E",
@@ -35,7 +35,8 @@ def get_random_sticker():
 def get_random_emoji():
     emojis = [
         "😴",
-        "😪", 
+        "😪",
+        "🥱",
         "💤",
         
     ]
