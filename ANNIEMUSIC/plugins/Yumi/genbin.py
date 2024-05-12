@@ -32,4 +32,4 @@ def generate(client, message):
     prefix = random.choice(VALID_PREFIXES)
     length = 6  # Standard credit card length
     card_number = generate_test_card_number(prefix, length)
-    message.reply_text(f"𝗕𝗜𝗡 𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘𝗗\n" f"`{card_number}` ✅")
+    message.reply_text(f"ʙɪɴ sᴜᴄᴄᴇssғᴜʟʟʏ ɢᴇɴᴇʀᴀᴛᴇᴅ\n" f"`{card_number}`")
