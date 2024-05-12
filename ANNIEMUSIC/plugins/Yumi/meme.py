@@ -18,7 +18,7 @@ def meme_command(client, message):
         title = data.get("title")
 
         # Mention the bot username in the caption
-        caption = f"{title}\n\nRequest by {message.from_user.mention}\nBot username: @{app.get_me().username}"
+        caption = f"{title}\n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ {message.from_user.mention}\nʙᴏᴛ ᴜsᴇʀɴᴀᴍᴇ : @{app.get_me().username}"
 
         # Send the meme image to the user with the modified caption
         message.reply_photo(
@@ -28,4 +28,4 @@ def meme_command(client, message):
 
     except Exception as e:
         print(f"Error fetching meme: {e}")
-        message.reply_text("Sorry, I couldn't fetch a meme at the moment.")
+        message.reply_text("sᴏʀʀʏ, ɪ ᴄᴏᴜʟᴅɴ'ᴛ ғᴇᴛᴄʜ ᴀ ᴍᴇᴍᴇ ᴀᴛ ᴛʜᴇ ᴍᴏᴍᴇɴᴛ.")
