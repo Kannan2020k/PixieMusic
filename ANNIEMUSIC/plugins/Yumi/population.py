@@ -24,17 +24,17 @@ def country_command_handler(client: Client, message: Message):
             population = country_info[0].get("population", "N/A")
 
             response_text = (
-                f"Country Information\n\n"
-                f"Name: {country_name}\n"
-                f"Capital: {capital}\n"
-                f"Population: {population}"
+                f"**ᴄᴏᴜɴᴛʀʏ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :**\n\n"
+                f"ɴᴀᴍᴇ: {country_name}\n"
+                f"ᴄᴀᴘɪᴛᴀʟ: {capital}\n"
+                f"ᴘᴏᴘᴜʟᴀᴛɪᴏɴ: {population}"
             )
         else:
-            response_text = "Error fetching country information from the API."
+            response_text = "ᴇʀʀᴏʀ ғᴇᴛᴄʜɪɴɢ ᴄᴏᴜɴᴛʀʏ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ғʀᴏᴍ ᴛʜᴇ ᴀᴘɪ."
     except requests.exceptions.HTTPError as http_err:
-        response_text = f"HTTP error occurred Enter correct Country code"
+        response_text = f"ʜᴛᴛᴘ ᴇʀʀᴏʀ ᴏᴄᴄᴜʀʀᴇᴅ ᴇɴᴛᴇʀ ᴄᴏʀʀᴇᴄᴛ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ"
     except Exception as err:
-        response_text = f" Error @githubxd"
+        response_text = f" ᴇᴇʀᴏʀ @XovaAssociation"
 
     # Send the response to the Telegram chat
     message.reply_text(response_text)
