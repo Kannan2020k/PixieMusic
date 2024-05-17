@@ -28,18 +28,18 @@ from config import BANNED_USERS, AMOP
 from strings import get_string
 
 ANNIE_IMG = [
-    "https://telegra.ph/file/3bda19560cf8fd08b4b35.jpg",
-    "https://telegra.ph/file/36cedeca1d1542655b66c.jpg",
-    "https://telegra.ph/file/4df92cad09ab0ba77d8f3.jpg",
-    "https://telegra.ph/file/04d98c9d9415f6fee57d8.jpg",
-    "https://telegra.ph/file/e9492e185d185b7fc0ece.jpg"
+    "https://telegra.ph/file/335e63292f36d9fb7c148.jpg",
+    "https://telegra.ph/file/6fdbf7a08639a1df11109.jpg",
+    "https://telegra.ph/file/1c3ab31e4f6343fad1ec7.jpg",
+    "https://telegra.ph/file/fe9d3e959520874386b69.jpg",
+    "https://telegra.ph/file/335e63292f36d9fb7c148.jpg"
 ]
 
 STICKERS = [
-    "CAACAgUAAxkBAAJkl2ZBfFay48Trm8_ZTyOKEJ9WtB37AAIJBQACtLCwVK-kBsXeRKrgNQQ",
-    "CAACAgUAAxkBAAJkZWY81ZkUB0wxuOllhjZ7Eed8ecM5AAKfEgACQ7qxVCmX2ikK5S3aNQQ",
-    "CAACAgUAAxkBAAJkXWY81YbqWpcbxZvcAxG1kO6d0qvTAAJrBQACcYCoVIzWJCf08lGTNQQ",
-    "CAACAgUAAxkBAAJkWWY81Wzz8PCLXy4KgL9NVMIfbkgSAAIKBQACJ1-wVBW6nNZ2ok2CNQQ",
+    "CAACAgUAAxkBAAIBEWZGKDGe5upgurSjgE_FAAFLLE1lJgACHAEAAm7AyFU4BjEVKEWwEh4E",
+    "CAACAgUAAxkBAAIBEWZGKDGe5upgurSjgE_FAAFLLE1lJgACHAEAAm7AyFU4BjEVKEWwEh4E",
+    "CAACAgUAAxkBAAIBEWZGKDGe5upgurSjgE_FAAFLLE1lJgACHAEAAm7AyFU4BjEVKEWwEh4E",
+    "CAACAgUAAxkBAAIBEWZGKDGe5upgurSjgE_FAAFLLE1lJgACHAEAAm7AyFU4BjEVKEWwEh4E",
 
 ]
 
